@@ -52,7 +52,7 @@ The model was evaluated using:
 | F1-Score | 98.61% |
 | ROC-AUC | 0.995 |
 
-## Visualizations
+## Visualizations file
 
 ### Confusion Matrix
 
